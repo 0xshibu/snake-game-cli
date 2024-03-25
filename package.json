@@ -1,6 +1,6 @@
 {
-  "name": "snake-game",
-  "version": "1.0.0",
+  "name": "snake-game-cli",
+  "version": "1.0.1",
   "description": "A simple Snake game implemented in Node.js",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,21 @@
   "license": "MIT",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xshibu/snake-game-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "snake",
+    "game",
+    "nodejs",
+    "fun"
+  ],
+  "bugs": {
+    "url": "https://github.com/0xshibu/snake-game-cli/issues"
+  },
+  "homepage": "https://github.com/0xshibu/snake-game-cli#readme"
 }
